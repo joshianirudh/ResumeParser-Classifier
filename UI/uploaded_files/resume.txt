@@ -1,0 +1,180 @@
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
