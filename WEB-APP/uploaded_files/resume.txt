@@ -356,4 +356,1353 @@ encrypting data using Caesar cipher.
  
  
  
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abhay Lal 
+
+AI Enthusiast 
+
+Learn, Unlearn and Relearn with Machines ! 
+
+abhaylal@icloud.com 
+
+9967060057 
+
+Mumbai, India 
+
+linkedin.com/in/lal-abhay 
+
+github.com/abhay-lal 
+
+EDUCATION 
+B.Tech Computer Science 
+SRM Institute of Science and Technology 
+08/2020 - Present,  
+
+Chennai,India 
+
+Branch 
+
+Computer Science
+Engineering 
+
+PERSONAL PROJECTS 
+Astro Numbers (07/2021 - 08/2021)
+
+Have built a Multilayer perceptron (MLP) and Convolutional Neural
+Network (CNN) model using Tensorﬂow to recognise handwritten
+digits. 
+Astro numbers help primary teachers to give the students a unique
+experience in solving maths problems. 
+The web based application deployed on Heroku interface of Astro
+numbers uses a MLP model to classify the answers drawn by
+students. 
+
+Bitcoin Price Prediction (12/2021 - 01/2022)
+
+In this Deep Learning Application, have used the price data for
+Bitcoin to forecast its price in a speciﬁed future window. We have
+used the Tensorﬂow and Keras APIs to build a stacked LSTM model. 
+The user can check the candlestick graph that displays the
+high,low,open,close of Bitcoin [BTC]. 
+This project is deployed on Streamlit ,the user can select the weeks. 
+
+WORK EXPERIENCE 
+Machine Learning Engineer 
+Data Science Community SRM 
+01/2021 - Present,  
+A technology-driven Data Science-based student-led innovation
+community at SRM IST. 
+
+Chennai, India 
+
+Achievements/Tasks 
+
+Built innovative community projects using machine learning
+and deep learning technology. 
+
+Performed various tasks in the ﬁeld of Supervised Machine
+Learning. 
+
+Read research papers in various paper reading sessions. 
+
+Technical Team Member 
+CodeChef SRM Student Chapter 
+02/2021 - Present,  
+
+Achievements/Tasks 
+
+Conducted competitive coding contests. 
+
+Chennai, India 
+
+Formulated questions for debugging and challenges for
+CodeChef events. 
+
+Carried out recruitments for freshers in CP domain. 
+
+SKILLS 
+
+C/C++ 
+
+Python 
+
+Data Science 
+
+Pandas 
+
+Numpy 
+
+Machine Learning 
+
+Neural Networks 
+
+Deep Learning 
+
+Tensorﬂow 
+
+CNN 
+
+Data Structures 
+
+Problem Solving 
+
+Keras 
+
+Skicit-Learn 
+
+Streamlit 
+
+Computer Vision 
+
+Algorithms 
+
+ORGANIZATIONS 
+Next Tech Lab (10/2021 - Present) 
+Member 
+
+SRM Machine Intelligence community (10/2021 - Present) 
+Community Executive 
+
+IEEE SRM IST (10/2021 - Present) 
+Research & Development Member 
+
+CERTIFICATES 
+Convolutional Neural Networks by DeepLearning.ai (12/2021)
+
+Structuring Machine Learning Projects by DeepLearning.ai
+ (11/2021)
+
+Improving Deep Neural Networks: Hyperparameter Tuning,
+Regularization and Optimization (11/2021)
+
+AWS Machine Learning Foundations by Udacity (10/2021)
+
+Introduction to TensorFlow for Artiﬁcial Intelligence, Machine
+Learning, and Deep Learning (08/2021)
+
+Neural Networks and Deep Learning by DeepLearning.ai
+ (09/2021)
+
+Summer Analytics 2021 (07/2021)
+Consulting and Analytics Club, IIT Guwahati 
+
+Intermediate Machine Learning by Kaggle (06/2021)
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+Korean 
+Elementary Proﬁciency 
+
+Co-Founder 
+Codiﬁcacion Circulo 
+03/2021 - Present,  
+
+Achievements/Tasks 
+
+Founded and led a technological community for Developers
+to learn, grow and take part in Hackathons. 
+
+Conducted a workshop on Github. 
+
+Won a hackathon in Devfest 2.0 by DevSoc. 
+
+Chennai, India 
+
+INTERESTS 
+
+Photography 
+
+Video Editing 
+
+Artiﬁcial Intelligence 
+
+Deep Learning Research 
+
+Chess 
+
+Football 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abhay Lal 
+
+AI Enthusiast 
+
+Learn, Unlearn and Relearn with Machines ! 
+
+abhaylal@icloud.com 
+
+9967060057 
+
+Mumbai, India 
+
+linkedin.com/in/lal-abhay 
+
+github.com/abhay-lal 
+
+EDUCATION 
+B.Tech Computer Science 
+SRM Institute of Science and Technology 
+08/2020 - Present,  
+
+Chennai,India 
+
+Branch 
+
+Computer Science
+Engineering 
+
+PERSONAL PROJECTS 
+Astro Numbers (07/2021 - 08/2021)
+
+Have built a Multilayer perceptron (MLP) and Convolutional Neural
+Network (CNN) model using Tensorﬂow to recognise handwritten
+digits. 
+Astro numbers help primary teachers to give the students a unique
+experience in solving maths problems. 
+The web based application deployed on Heroku interface of Astro
+numbers uses a MLP model to classify the answers drawn by
+students. 
+
+Bitcoin Price Prediction (12/2021 - 01/2022)
+
+In this Deep Learning Application, have used the price data for
+Bitcoin to forecast its price in a speciﬁed future window. We have
+used the Tensorﬂow and Keras APIs to build a stacked LSTM model. 
+The user can check the candlestick graph that displays the
+high,low,open,close of Bitcoin [BTC]. 
+This project is deployed on Streamlit ,the user can select the weeks. 
+
+WORK EXPERIENCE 
+Machine Learning Engineer 
+Data Science Community SRM 
+01/2021 - Present,  
+A technology-driven Data Science-based student-led innovation
+community at SRM IST. 
+
+Chennai, India 
+
+Achievements/Tasks 
+
+Built innovative community projects using machine learning
+and deep learning technology. 
+
+Performed various tasks in the ﬁeld of Supervised Machine
+Learning. 
+
+Read research papers in various paper reading sessions. 
+
+Technical Team Member 
+CodeChef SRM Student Chapter 
+02/2021 - Present,  
+
+Achievements/Tasks 
+
+Conducted competitive coding contests. 
+
+Chennai, India 
+
+Formulated questions for debugging and challenges for
+CodeChef events. 
+
+Carried out recruitments for freshers in CP domain. 
+
+SKILLS 
+
+C/C++ 
+
+Python 
+
+Data Science 
+
+Pandas 
+
+Numpy 
+
+Machine Learning 
+
+Neural Networks 
+
+Deep Learning 
+
+Tensorﬂow 
+
+CNN 
+
+Data Structures 
+
+Problem Solving 
+
+Keras 
+
+Skicit-Learn 
+
+Streamlit 
+
+Computer Vision 
+
+Algorithms 
+
+ORGANIZATIONS 
+Next Tech Lab (10/2021 - Present) 
+Member 
+
+SRM Machine Intelligence community (10/2021 - Present) 
+Community Executive 
+
+IEEE SRM IST (10/2021 - Present) 
+Research & Development Member 
+
+CERTIFICATES 
+Convolutional Neural Networks by DeepLearning.ai (12/2021)
+
+Structuring Machine Learning Projects by DeepLearning.ai
+ (11/2021)
+
+Improving Deep Neural Networks: Hyperparameter Tuning,
+Regularization and Optimization (11/2021)
+
+AWS Machine Learning Foundations by Udacity (10/2021)
+
+Introduction to TensorFlow for Artiﬁcial Intelligence, Machine
+Learning, and Deep Learning (08/2021)
+
+Neural Networks and Deep Learning by DeepLearning.ai
+ (09/2021)
+
+Summer Analytics 2021 (07/2021)
+Consulting and Analytics Club, IIT Guwahati 
+
+Intermediate Machine Learning by Kaggle (06/2021)
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+Korean 
+Elementary Proﬁciency 
+
+Co-Founder 
+Codiﬁcacion Circulo 
+03/2021 - Present,  
+
+Achievements/Tasks 
+
+Founded and led a technological community for Developers
+to learn, grow and take part in Hackathons. 
+
+Conducted a workshop on Github. 
+
+Won a hackathon in Devfest 2.0 by DevSoc. 
+
+Chennai, India 
+
+INTERESTS 
+
+Photography 
+
+Video Editing 
+
+Artiﬁcial Intelligence 
+
+Deep Learning Research 
+
+Chess 
+
+Football 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abhay Lal 
+
+AI Enthusiast 
+
+Learn, Unlearn and Relearn with Machines ! 
+
+abhaylal@icloud.com 
+
+9967060057 
+
+Mumbai, India 
+
+linkedin.com/in/lal-abhay 
+
+github.com/abhay-lal 
+
+EDUCATION 
+B.Tech Computer Science 
+SRM Institute of Science and Technology 
+08/2020 - Present,  
+
+Chennai,India 
+
+Branch 
+
+Computer Science
+Engineering 
+
+PERSONAL PROJECTS 
+Astro Numbers (07/2021 - 08/2021)
+
+Have built a Multilayer perceptron (MLP) and Convolutional Neural
+Network (CNN) model using Tensorﬂow to recognise handwritten
+digits. 
+Astro numbers help primary teachers to give the students a unique
+experience in solving maths problems. 
+The web based application deployed on Heroku interface of Astro
+numbers uses a MLP model to classify the answers drawn by
+students. 
+
+Bitcoin Price Prediction (12/2021 - 01/2022)
+
+In this Deep Learning Application, have used the price data for
+Bitcoin to forecast its price in a speciﬁed future window. We have
+used the Tensorﬂow and Keras APIs to build a stacked LSTM model. 
+The user can check the candlestick graph that displays the
+high,low,open,close of Bitcoin [BTC]. 
+This project is deployed on Streamlit ,the user can select the weeks. 
+
+WORK EXPERIENCE 
+Machine Learning Engineer 
+Data Science Community SRM 
+01/2021 - Present,  
+A technology-driven Data Science-based student-led innovation
+community at SRM IST. 
+
+Chennai, India 
+
+Achievements/Tasks 
+
+Built innovative community projects using machine learning
+and deep learning technology. 
+
+Performed various tasks in the ﬁeld of Supervised Machine
+Learning. 
+
+Read research papers in various paper reading sessions. 
+
+Technical Team Member 
+CodeChef SRM Student Chapter 
+02/2021 - Present,  
+
+Achievements/Tasks 
+
+Conducted competitive coding contests. 
+
+Chennai, India 
+
+Formulated questions for debugging and challenges for
+CodeChef events. 
+
+Carried out recruitments for freshers in CP domain. 
+
+SKILLS 
+
+C/C++ 
+
+Python 
+
+Data Science 
+
+Pandas 
+
+Numpy 
+
+Machine Learning 
+
+Neural Networks 
+
+Deep Learning 
+
+Tensorﬂow 
+
+CNN 
+
+Data Structures 
+
+Problem Solving 
+
+Keras 
+
+Skicit-Learn 
+
+Streamlit 
+
+Computer Vision 
+
+Algorithms 
+
+ORGANIZATIONS 
+Next Tech Lab (10/2021 - Present) 
+Member 
+
+SRM Machine Intelligence community (10/2021 - Present) 
+Community Executive 
+
+IEEE SRM IST (10/2021 - Present) 
+Research & Development Member 
+
+CERTIFICATES 
+Convolutional Neural Networks by DeepLearning.ai (12/2021)
+
+Structuring Machine Learning Projects by DeepLearning.ai
+ (11/2021)
+
+Improving Deep Neural Networks: Hyperparameter Tuning,
+Regularization and Optimization (11/2021)
+
+AWS Machine Learning Foundations by Udacity (10/2021)
+
+Introduction to TensorFlow for Artiﬁcial Intelligence, Machine
+Learning, and Deep Learning (08/2021)
+
+Neural Networks and Deep Learning by DeepLearning.ai
+ (09/2021)
+
+Summer Analytics 2021 (07/2021)
+Consulting and Analytics Club, IIT Guwahati 
+
+Intermediate Machine Learning by Kaggle (06/2021)
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+Korean 
+Elementary Proﬁciency 
+
+Co-Founder 
+Codiﬁcacion Circulo 
+03/2021 - Present,  
+
+Achievements/Tasks 
+
+Founded and led a technological community for Developers
+to learn, grow and take part in Hackathons. 
+
+Conducted a workshop on Github. 
+
+Won a hackathon in Devfest 2.0 by DevSoc. 
+
+Chennai, India 
+
+INTERESTS 
+
+Photography 
+
+Video Editing 
+
+Artiﬁcial Intelligence 
+
+Deep Learning Research 
+
+Chess 
+
+Football 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abhay Lal 
+
+AI Enthusiast 
+
+Learn, Unlearn and Relearn with Machines ! 
+
+abhaylal@icloud.com 
+
+9967060057 
+
+Mumbai, India 
+
+linkedin.com/in/lal-abhay 
+
+github.com/abhay-lal 
+
+EDUCATION 
+B.Tech Computer Science 
+SRM Institute of Science and Technology 
+08/2020 - Present,  
+
+Chennai,India 
+
+Branch 
+
+Computer Science
+Engineering 
+
+PERSONAL PROJECTS 
+Astro Numbers (07/2021 - 08/2021)
+
+Have built a Multilayer perceptron (MLP) and Convolutional Neural
+Network (CNN) model using Tensorﬂow to recognise handwritten
+digits. 
+Astro numbers help primary teachers to give the students a unique
+experience in solving maths problems. 
+The web based application deployed on Heroku interface of Astro
+numbers uses a MLP model to classify the answers drawn by
+students. 
+
+Bitcoin Price Prediction (12/2021 - 01/2022)
+
+In this Deep Learning Application, have used the price data for
+Bitcoin to forecast its price in a speciﬁed future window. We have
+used the Tensorﬂow and Keras APIs to build a stacked LSTM model. 
+The user can check the candlestick graph that displays the
+high,low,open,close of Bitcoin [BTC]. 
+This project is deployed on Streamlit ,the user can select the weeks. 
+
+WORK EXPERIENCE 
+Machine Learning Engineer 
+Data Science Community SRM 
+01/2021 - Present,  
+A technology-driven Data Science-based student-led innovation
+community at SRM IST. 
+
+Chennai, India 
+
+Achievements/Tasks 
+
+Built innovative community projects using machine learning
+and deep learning technology. 
+
+Performed various tasks in the ﬁeld of Supervised Machine
+Learning. 
+
+Read research papers in various paper reading sessions. 
+
+Technical Team Member 
+CodeChef SRM Student Chapter 
+02/2021 - Present,  
+
+Achievements/Tasks 
+
+Conducted competitive coding contests. 
+
+Chennai, India 
+
+Formulated questions for debugging and challenges for
+CodeChef events. 
+
+Carried out recruitments for freshers in CP domain. 
+
+SKILLS 
+
+C/C++ 
+
+Python 
+
+Data Science 
+
+Pandas 
+
+Numpy 
+
+Machine Learning 
+
+Neural Networks 
+
+Deep Learning 
+
+Tensorﬂow 
+
+CNN 
+
+Data Structures 
+
+Problem Solving 
+
+Keras 
+
+Skicit-Learn 
+
+Streamlit 
+
+Computer Vision 
+
+Algorithms 
+
+ORGANIZATIONS 
+Next Tech Lab (10/2021 - Present) 
+Member 
+
+SRM Machine Intelligence community (10/2021 - Present) 
+Community Executive 
+
+IEEE SRM IST (10/2021 - Present) 
+Research & Development Member 
+
+CERTIFICATES 
+Convolutional Neural Networks by DeepLearning.ai (12/2021)
+
+Structuring Machine Learning Projects by DeepLearning.ai
+ (11/2021)
+
+Improving Deep Neural Networks: Hyperparameter Tuning,
+Regularization and Optimization (11/2021)
+
+AWS Machine Learning Foundations by Udacity (10/2021)
+
+Introduction to TensorFlow for Artiﬁcial Intelligence, Machine
+Learning, and Deep Learning (08/2021)
+
+Neural Networks and Deep Learning by DeepLearning.ai
+ (09/2021)
+
+Summer Analytics 2021 (07/2021)
+Consulting and Analytics Club, IIT Guwahati 
+
+Intermediate Machine Learning by Kaggle (06/2021)
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+Korean 
+Elementary Proﬁciency 
+
+Co-Founder 
+Codiﬁcacion Circulo 
+03/2021 - Present,  
+
+Achievements/Tasks 
+
+Founded and led a technological community for Developers
+to learn, grow and take part in Hackathons. 
+
+Conducted a workshop on Github. 
+
+Won a hackathon in Devfest 2.0 by DevSoc. 
+
+Chennai, India 
+
+INTERESTS 
+
+Photography 
+
+Video Editing 
+
+Artiﬁcial Intelligence 
+
+Deep Learning Research 
+
+Chess 
+
+Football 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+
+kanavsabharwal7@gmail.com
+
+www.linkedin.com/in/kanav-
+sabharwal (LinkedIn)
+
+Top Skills
+
+Machine Learning
+
+Python
+
+Data Science
+
+Certifications
+
+Machine Learning
+
+Neural Networks and Deep Learning
+
+Text Retrieval and Search Engines
+
+Cloud Computing Applications, Part
+1: Cloud Systems and Infrastructure
+
+Kanav Sabharwal
+
+Ph.D. Research Scholar at National University of Singapore
+Singapore
+
+Summary
+
+Eager to dive deep into the field of Artificial Intelligence
+
+Strong at problem solving and grasping new technologies.
+
+Good management and oratory skills
+
+Experience
+
+Singtel
+Student Researcher
+November 2020 - July 2021 (9 months)
+Singapore
+
+-->Contributed to the R&D of a novel defense mechanism to enhance IoT
+
+network security using Adversarial Machine Learning. Implemented state-of-
+
+the-art device fingerprinting classifiers to evaluate the solution against existing
+
+works. The defense guarantees a significant increase in privacy compared to
+
+relevant works
+
+--> Submitted research work as primary author to Privacy Enhancing
+
+Technologies Symposium (PETS’22)
+
+-->Presented past research work and participated in solution deliberation
+
+within research group
+
+6d Technologies
+Machine Learning Intern
+December 2019 - July 2020 (8 months)
+Bengaluru, Karnataka
+
+Worked with R&D department to develop a novel machine learning based
+
+SMS Firewall. The Firewall includes three modules:
+
+->Classification of messages as HAM/SPAM
+
+->Classification of messages as A2P/P2P
+
+-> Detection of SIMBOX in network, using network statistics
+
+Hewlett Packard Enterprise
+Academic Intern
+June 2019 - June 2019 (1 month)
+Singapore
+
+Page 1 of 3
+
+ 
+ 
+ 
+Finished amongst top students in the program on 'Big Data Analytics using
+
+Artificial Neural Networks'. Led a group of 5 members for group projects as
+
+part the curriculum. Received LOR for excellent performance.
+
+Nokia
+Summer Intern
+May 2019 - June 2019 (2 months)
+Gurgaon, India
+
+Investigated various telecom technologies like 4G, 5G, and IoT. Involved in a
+
+live project of analyzing network traffic generated by IoT devices
+
+Pepbill
+College Ambassador
+April 2017 - April 2019 (2 years 1 month)
+Vellore Area, India
+
+Bharat Electronics
+Summer Intern
+May 2018 - June 2018 (2 months)
+Ghāziābād Area, India
+
+Proposed a Machine Learning based substitute to the present Radar
+
+Surveillance system while studying about the role of IT in defense
+
+Indian Society for Technical Education
+Core Committe Member
+January 2017 - January 2018 (1 year 1 month)
+Vellore Area, India
+
+Organised various events in College technical and cultural tests
+
+Organised Horizon 2018
+
+Handled Public Relations and Sponsorship
+
+Education
+
+National University of Singapore
+
+Doctor of Philosophy - PhD, Computer Science · (January 2022 - 2025)
+
+National University of Singapore
+
+Master's degree, Artificial Intelligence · (August 2020 - December 2021)
+
+Vellore Institute of Technology
+
+Page 2 of 3
+
+ 
+ 
+ 
+Bachelor of Technology - BTech, Information Technology · (2016 - 2020)
+
+National University of Singapore
+
+Summer Academic Programme, Big Data using Artificial Neural
+
+Networks · (2019)
+
+Delhi Public School Rohini
+
+High School Diploma  · (2002 - 2016)
+
+Page 3 of 3
+
+ 
+ 
+ 
+Contact
+
+kanavsabharwal7@gmail.com
+
+www.linkedin.com/in/kanav-
+sabharwal (LinkedIn)
+
+Top Skills
+
+Machine Learning
+
+Python
+
+Data Science
+
+Certifications
+
+Machine Learning
+
+Neural Networks and Deep Learning
+
+Text Retrieval and Search Engines
+
+Cloud Computing Applications, Part
+1: Cloud Systems and Infrastructure
+
+Kanav Sabharwal
+
+Ph.D. Research Scholar at National University of Singapore
+Singapore
+
+Summary
+
+Eager to dive deep into the field of Artificial Intelligence
+
+Strong at problem solving and grasping new technologies.
+
+Good management and oratory skills
+
+Experience
+
+Singtel
+Student Researcher
+November 2020 - July 2021 (9 months)
+Singapore
+
+-->Contributed to the R&D of a novel defense mechanism to enhance IoT
+
+network security using Adversarial Machine Learning. Implemented state-of-
+
+the-art device fingerprinting classifiers to evaluate the solution against existing
+
+works. The defense guarantees a significant increase in privacy compared to
+
+relevant works
+
+--> Submitted research work as primary author to Privacy Enhancing
+
+Technologies Symposium (PETS’22)
+
+-->Presented past research work and participated in solution deliberation
+
+within research group
+
+6d Technologies
+Machine Learning Intern
+December 2019 - July 2020 (8 months)
+Bengaluru, Karnataka
+
+Worked with R&D department to develop a novel machine learning based
+
+SMS Firewall. The Firewall includes three modules:
+
+->Classification of messages as HAM/SPAM
+
+->Classification of messages as A2P/P2P
+
+-> Detection of SIMBOX in network, using network statistics
+
+Hewlett Packard Enterprise
+Academic Intern
+June 2019 - June 2019 (1 month)
+Singapore
+
+Page 1 of 3
+
+ 
+ 
+ 
+Finished amongst top students in the program on 'Big Data Analytics using
+
+Artificial Neural Networks'. Led a group of 5 members for group projects as
+
+part the curriculum. Received LOR for excellent performance.
+
+Nokia
+Summer Intern
+May 2019 - June 2019 (2 months)
+Gurgaon, India
+
+Investigated various telecom technologies like 4G, 5G, and IoT. Involved in a
+
+live project of analyzing network traffic generated by IoT devices
+
+Pepbill
+College Ambassador
+April 2017 - April 2019 (2 years 1 month)
+Vellore Area, India
+
+Bharat Electronics
+Summer Intern
+May 2018 - June 2018 (2 months)
+Ghāziābād Area, India
+
+Proposed a Machine Learning based substitute to the present Radar
+
+Surveillance system while studying about the role of IT in defense
+
+Indian Society for Technical Education
+Core Committe Member
+January 2017 - January 2018 (1 year 1 month)
+Vellore Area, India
+
+Organised various events in College technical and cultural tests
+
+Organised Horizon 2018
+
+Handled Public Relations and Sponsorship
+
+Education
+
+National University of Singapore
+
+Doctor of Philosophy - PhD, Computer Science · (January 2022 - 2025)
+
+National University of Singapore
+
+Master's degree, Artificial Intelligence · (August 2020 - December 2021)
+
+Vellore Institute of Technology
+
+Page 2 of 3
+
+ 
+ 
+ 
+Bachelor of Technology - BTech, Information Technology · (2016 - 2020)
+
+National University of Singapore
+
+Summer Academic Programme, Big Data using Artificial Neural
+
+Networks · (2019)
+
+Delhi Public School Rohini
+
+High School Diploma  · (2002 - 2016)
+
+Page 3 of 3
+
+ 
+ 
+ 
 
