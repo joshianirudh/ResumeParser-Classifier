@@ -4,19 +4,25 @@ import spacy
 from nltk.tokenize import word_tokenize
 
 import nltk
-nltk.download('punkt')
+try:
+    #check if nltk download is available
+    pass
+except:
+    #nltk.download('punkt')
+    pass
 
 sp = spacy.load('en_core_web_sm')
 all_stopwords = sp.Defaults.stop_words
 
 class Preprocess:
-    def __init__(self, text):
-        self.pipeline(text)
+    def __init__(self):
+        pass
         
     #Creating a function to remove unicode characters
     def clean(self, text):
         text= text.replace("\xa0","")
         text= text.replace("\x95","")
+        text= text.strip()
         return str(text)
     
     #Creating a function to remove HTML tags
@@ -32,7 +38,7 @@ class Preprocess:
             return str(text)
         
     #Creating a function to remove stopwords
-    def remove_stopwords(text):
+    def remove_stopwords(self, text):
         text_tokens = word_tokenize(text)
         tokens_without_sw= [word for word in text_tokens if not word in all_stopwords]
         text = (" ").join(tokens_without_sw)

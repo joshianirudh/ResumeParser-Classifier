@@ -18,7 +18,10 @@ from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
+from Scripts.Preprocess import Preprocess
+from Scripts.Model import Model
 
+pre_process = Preprocess()
 app = Flask(__name__)
 
 app.config['UPLOAD_EXTENSIONS'] = ['.pdf']
@@ -44,7 +47,7 @@ def upload_file():
         f.save(os.path.join(app.config['UPLOAD_PATH'], 'resume.pdf'))
   
         output_string = StringIO()
-        with open('/Users/nat/myproject/uploaded_files/resume.pdf', 'rb') as in_file:
+        with open('uploaded_files/resume.pdf', 'rb') as in_file:
             parser = PDFParser(in_file)
             doc = PDFDocument(parser)
             rsrcmgr = PDFResourceManager()
@@ -52,12 +55,14 @@ def upload_file():
             interpreter = PDFPageInterpreter(rsrcmgr, device)
             for page in PDFPage.create_pages(doc):
                 interpreter.process_page(page)
-        STORE=output_string.getvalue()
+        STORE = output_string.getvalue()
+        main_model = Model()
         print(STORE)
+        print(main_model.normalize(pre_process.pipeline(text=STORE)))
         textFile = open("uploaded_files/resume.txt", 'a')
         textFile.write(output_string.getvalue())
         textFile.close()
-        #Add your function for dealing with the model and get the output and render it on output.html
+        # Add your function for dealing with the model and get the output and render it on output.html
         return render_template('output.html')
 
 if __name__ == '__main__':
