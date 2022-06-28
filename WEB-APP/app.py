@@ -52,8 +52,8 @@ def upload_file():
             interpreter = PDFPageInterpreter(rsrcmgr, device)
             for page in PDFPage.create_pages(doc):
                 interpreter.process_page(page)
-        
-        print(output_string.getvalue())
+        STORE=output_string.getvalue()
+        print(STORE)
         textFile = open("uploaded_files/resume.txt", 'a')
         textFile.write(output_string.getvalue())
         textFile.close()
