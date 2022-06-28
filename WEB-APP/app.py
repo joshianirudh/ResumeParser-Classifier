@@ -30,7 +30,10 @@ def home():
 @app.route('/about/')
 def about():
     return render_template('about.html')
-	
+@app.route('/layout/')
+def layout():
+    return render_template('layout.html')
+    
 @app.route('/uploader', methods = ['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
