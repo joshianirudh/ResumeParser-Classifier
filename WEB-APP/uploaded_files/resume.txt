@@ -22859,4 +22859,147 @@ Page 3 of 3
  
  
  
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
 
