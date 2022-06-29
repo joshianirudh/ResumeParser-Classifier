@@ -10,6 +10,8 @@ The model classifies an input resume into categories of IT jobs, a resume can be
 *   It can be used by companies with heavy work-loads to pass the candidate resumes through our application to check what all IT roles a certain resume fits into.
 *   Creates an executive or management summary that recruiters may use to evaluate candidates by reading. It enables you to quickly arrange the resumes of the candidates. 
 *   It takes less time to assess and pick the most relevant talent who is a good fit for your business.
+## Workflow
+![Workflow Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/Workflow.jpeg)
 
 ## PreProcessing Pipeline
 ![Pipeline Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/pipeline.png)
