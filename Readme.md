@@ -1,4 +1,4 @@
-# ResumeParser-Classifier system
+# ResumeParser-Classifier System
 ## About Project:
 This project is broadly divided into two sections: the Resume Parser and then the Classifier .This project is aimed at building a multi-label classification model using the principles of Deep Learning and NLP to effectively classify users into job categories given their resume.
 For the Resume Parser, the raw text will be extracted from resumes and blocks would be isolated along with the separation of entities. 
