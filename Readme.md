@@ -19,7 +19,11 @@ The model classifies an input resume into categories of IT jobs, a resume can be
 ## Model
 ### Deep Neural Network
 ![DNN Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/dnn.png)
+### Convolutional Neural Network
 ![CNN Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/cnn.png)
+
+### BERT Classifier
+![BERT Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/bert.png)
 
 ## TechStack Used(Python Libraries):
 * BeautifulSoup4
@@ -33,12 +37,18 @@ The model classifies an input resume into categories of IT jobs, a resume can be
 * Werkzeug
 
 ## Instructions to run
+* To install Flask and other dependencies, use the given pip command.
+```bash
+pip install -r requirements.txt
+```
+* Running Flask scripts is incredibly easy. All you need to do is enter the following line in your terminal.Open the WEB-APP directory in terminal and write the following commands
 
-
-## Prerequisites 
-
+```bash
+export FLASK_APP=app
+flask run
+```
 ## :technologist: Project Created & Maintained By -
-
+![Tech Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/team.png)
 
 
 ## License
