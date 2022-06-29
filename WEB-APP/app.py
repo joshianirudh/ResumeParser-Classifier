@@ -6,6 +6,7 @@ Created on Tue Jun 21 14:02:50 2022
 @author: nat
 """
 
+from typing import final
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 from werkzeug.datastructures import  FileStorage
@@ -59,15 +60,35 @@ def upload_file():
             for page in PDFPage.create_pages(doc):
                 interpreter.process_page(page)
         STORE = output_string.getvalue()
+        
         main_model = Model()
-        print(STORE)
+        print(STORE)    
         text = pre_process.pipeline(text=STORE)
         print(main_model.normalize(text))
+
+
+        OUT = main_model.normalize(text)
+        classes = ['Software_Developer', 'Database_Administrator',
+           'Systems_Administrator', 'Project_manager',
+           'Web_Developer', 'Network_Administrator',
+           'Security_Analyst', 'Python_Developer',
+           'Java_Developer', 'Front_End_Developer']
+
+        final = []
+        for i in range(10):
+            if(OUT[i]==1):
+                print(classes[i])
+                final.append(classes[i])
+                
+        #s=''.join(final)
+
+        
         textFile = open("uploaded_files/resume.txt", 'a')
         textFile.write(output_string.getvalue())
         textFile.close()
         # Add your function for dealing with the model and get the output and render it on output.html
-        return render_template('output.html')
+        return render_template('output.html', variable=final)
+        
 
 if __name__ == '__main__':
    app.run(debug = True)

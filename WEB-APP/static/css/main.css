@@ -10,7 +10,7 @@ body {
  */
 header {
   background-color: #134e53;
-  height: 35px;
+  height: 40px;
   width: 100%;
   opacity: .9;
   margin-bottom: 10px;
@@ -65,13 +65,13 @@ h3 {
   margin-top: 30px;
   text-align: center;
   letter-spacing: -1px;
-  color: #999;
+  color: #CAB7A2;
 }
 p {
   font-size: 1.4em;
   text-align: center;
   font-weight: bold;
-  color: #E88873;
+  color: #09080C;
 }
 .menu {
   float: right;

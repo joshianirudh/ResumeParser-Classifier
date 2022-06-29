@@ -2,5 +2,18 @@
 {% block content %}
    <div class="about">
      <h1>File Uploaded Successfully</h1>
+     <body>
+      <p>Recommended Jobs:
+      <ul>
+
+
+        {%for i in variable%}
+    <li>{{i}}</li>
+{%endfor%}
+      </ul>
+    </p>
+  </body>
+
+  
    </div>
  {% endblock %}
