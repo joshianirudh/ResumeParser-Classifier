@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+Flask==1.1.2
+Keras_Preprocessing==1.1.2
+nltk==3.7
+pandas==1.3.4
+pdfminer==20191125
+pdfminer.six==20220524
+spacy==3.3.1
+tensorflow==2.9.1
+Werkzeug==2.0.2
