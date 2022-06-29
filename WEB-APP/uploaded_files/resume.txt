@@ -20277,4 +20277,2586 @@ Page 3 of 3
  
  
  
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+
+www.linkedin.com/in/fourty-two
+(LinkedIn)
+
+Shantanu Pandey
+
+Data Science and IoT Practitioner | Helps make AI professionals
+awesome
+Bengaluru
+
+Top Skills
+
+C
+
+C++
+
+Machine Learning
+
+Languages
+
+Hindi
+
+English
+
+Certifications
+
+Professional Cloud Security
+Engineer
+
+Machine Learning
+
+Computer Forensics
+
+Honors-Awards
+
+Best Paper Award
+
+Microsoft TechEd India 2012
+RockStar
+
+Publications
+
+Relativity in Computing Logic
+
+Summary
+
+Microsoft Certified Trainer, Google Authorized Trainer, HPE
+
+Instructor. Data structures enthusiast and  C/C++ student. I have
+
+architected multiple AI solutions and lead data science teams in
+
+FinTech (risk, loans and real estate finance), and Infotainment
+
+(news and consumer behaviour analysis), Have trained 10,000+
+
+professionals and 50+ medium to large enterprises, on machine
+
+learning, deep learning/neural networks, computer vision, NLP,
+
+TensorFlow, IoT, data engineering, DataBricks/Spark, and security.
+
+Get in touch for official certification courses and customized learning
+
+deliveries!
+
+Experience
+
+APT Consulting Ltd.
+Director Of Engineering
+October 2020 - Present (1 year 9 months)
+Vancouver, British Columbia, Canada
+
+Meteoros Automation LLP
+Head Of Engineering
+February 2019 - Present (3 years 5 months)
+Bengaluru Area, India
+
+Architectures, AI Models, Data and Application Security, Technology Advisory,
+
+Corporate Training
+
+fincity
+Vice President Of Engineering
+November 2016 - March 2018 (1 year 5 months)
+Bangalore
+
+Cloud, Mobile, Web, Cybersecurity, Data Governance, Risk/Threat
+
+Management, Vendor & Asset Management, inter-disciplinary teams, and
+
+defined organization & Internal Processes 
+
+Page 1 of 3
+
+ 
+ 
+ 
+We are a group of seasoned investment bankers, lenders, engineers and
+
+operators. We arrange Housing Finance across Home Loans, Real Estate
+
+Developer Finance and Loan Against Property. This year we have already
+
+disbursed ₹800 Cr- and building an artificially intelligent loan disbursal system
+
+and bank to reduce the current sanction time from 100+ days to 10 days. We
+
+are looking for highly motivated hackers and geeks to join our team and build a
+
+suite of high impact & secure products. 
+
+Dunst Consulting LLC
+Director Of Engineering
+January 2014 - October 2016 (2 years 10 months)
+
+Building the architecture, development & deployment strategy, and managing
+
+the products to their success. 
+
+Rhaegan Technologies LLP
+Director Of Engineering
+April 2012 - January 2014 (1 year 10 months)
+Bangalore
+
+I lead the team into building & designing products. Rhaegan was a services
+
+based firm who built apps, backend, and security for a range of domains and
+
+startups. We were also a Microsoft BizSpark company, building our ISMS. 
+
+Microsoft
+1 year 3 months
+
+Microsoft Imagine Cup
+July 2011 - September 2012 (1 year 3 months)
+New York / Sydney
+
+I was able to combine my passion for technology and marketing for Microsoft
+
+Imagine Cup 2011 in New York, and 2012 in Sydney. We worked on online
+
+strategies, digital media, social-media, analytics and insights to cover 250+
+
+entrepreneur teams, and give them visibility in all the online nations. 
+
+Microsoft TechEd India 2012
+January 2012 - April 2012 (4 months)
+Bangalore
+
+I was core team member of Microsoft TechEd India 2012. Part of Planning,
+
+Assessment and Execution. I was responsible for online presence, planning
+
+& developing Rock Star Program (Tech Community), building and curating
+
+content for streaming, and managed vendors for quality testing, social media
+
+and logistics. 
+
+Page 2 of 3
+
+ 
+ 
+ 
+Education
+
+KVG College of Engineering
+
+BE, Computer Science Engineering · (2007 - 2011)
+
+St Paul's Lucknow
+
+Senior School Certificate, Computer Science · (2003 - 2007)
+
+Page 3 of 3
+
+ 
+ 
+ 
+Contact
+
+www.linkedin.com/in/fourty-two
+(LinkedIn)
+
+Shantanu Pandey
+
+Data Science and IoT Practitioner | Helps make AI professionals
+awesome
+Bengaluru
+
+Top Skills
+
+C
+
+C++
+
+Machine Learning
+
+Languages
+
+Hindi
+
+English
+
+Certifications
+
+Professional Cloud Security
+Engineer
+
+Machine Learning
+
+Computer Forensics
+
+Honors-Awards
+
+Best Paper Award
+
+Microsoft TechEd India 2012
+RockStar
+
+Publications
+
+Relativity in Computing Logic
+
+Summary
+
+Microsoft Certified Trainer, Google Authorized Trainer, HPE
+
+Instructor. Data structures enthusiast and  C/C++ student. I have
+
+architected multiple AI solutions and lead data science teams in
+
+FinTech (risk, loans and real estate finance), and Infotainment
+
+(news and consumer behaviour analysis), Have trained 10,000+
+
+professionals and 50+ medium to large enterprises, on machine
+
+learning, deep learning/neural networks, computer vision, NLP,
+
+TensorFlow, IoT, data engineering, DataBricks/Spark, and security.
+
+Get in touch for official certification courses and customized learning
+
+deliveries!
+
+Experience
+
+APT Consulting Ltd.
+Director Of Engineering
+October 2020 - Present (1 year 9 months)
+Vancouver, British Columbia, Canada
+
+Meteoros Automation LLP
+Head Of Engineering
+February 2019 - Present (3 years 5 months)
+Bengaluru Area, India
+
+Architectures, AI Models, Data and Application Security, Technology Advisory,
+
+Corporate Training
+
+fincity
+Vice President Of Engineering
+November 2016 - March 2018 (1 year 5 months)
+Bangalore
+
+Cloud, Mobile, Web, Cybersecurity, Data Governance, Risk/Threat
+
+Management, Vendor & Asset Management, inter-disciplinary teams, and
+
+defined organization & Internal Processes 
+
+Page 1 of 3
+
+ 
+ 
+ 
+We are a group of seasoned investment bankers, lenders, engineers and
+
+operators. We arrange Housing Finance across Home Loans, Real Estate
+
+Developer Finance and Loan Against Property. This year we have already
+
+disbursed ₹800 Cr- and building an artificially intelligent loan disbursal system
+
+and bank to reduce the current sanction time from 100+ days to 10 days. We
+
+are looking for highly motivated hackers and geeks to join our team and build a
+
+suite of high impact & secure products. 
+
+Dunst Consulting LLC
+Director Of Engineering
+January 2014 - October 2016 (2 years 10 months)
+
+Building the architecture, development & deployment strategy, and managing
+
+the products to their success. 
+
+Rhaegan Technologies LLP
+Director Of Engineering
+April 2012 - January 2014 (1 year 10 months)
+Bangalore
+
+I lead the team into building & designing products. Rhaegan was a services
+
+based firm who built apps, backend, and security for a range of domains and
+
+startups. We were also a Microsoft BizSpark company, building our ISMS. 
+
+Microsoft
+1 year 3 months
+
+Microsoft Imagine Cup
+July 2011 - September 2012 (1 year 3 months)
+New York / Sydney
+
+I was able to combine my passion for technology and marketing for Microsoft
+
+Imagine Cup 2011 in New York, and 2012 in Sydney. We worked on online
+
+strategies, digital media, social-media, analytics and insights to cover 250+
+
+entrepreneur teams, and give them visibility in all the online nations. 
+
+Microsoft TechEd India 2012
+January 2012 - April 2012 (4 months)
+Bangalore
+
+I was core team member of Microsoft TechEd India 2012. Part of Planning,
+
+Assessment and Execution. I was responsible for online presence, planning
+
+& developing Rock Star Program (Tech Community), building and curating
+
+content for streaming, and managed vendors for quality testing, social media
+
+and logistics. 
+
+Page 2 of 3
+
+ 
+ 
+ 
+Education
+
+KVG College of Engineering
+
+BE, Computer Science Engineering · (2007 - 2011)
+
+St Paul's Lucknow
+
+Senior School Certificate, Computer Science · (2003 - 2007)
+
+Page 3 of 3
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Anirudh 
+Joshi 
+PES University 
+
+324, Mahaveer Calyx, 
+BTM 4th Stage, 
+Bangalore 
+
+9902486088 
+joanirudh@outlook.com 
+
+ㅡ 
+
+Skills 
+
+ㅡ 
+
+Internships 
+
+ㅡ 
+Education 
+
+Proficient at    - Python, C 
+Knowledge of - Java, R, JavaScript 
+ML/DL Libraries - Pytorch, Tensorflow, OpenCV, NLTK, Spacy 
+Knowledge of Tools/Platforms – Flask, Docker,  AWS, Kubernetes, 
+ SQL, Mongo DB  
+
+GAIP / NUS  
+June 2022 
+- Developed a resume parser and recommender. 
+
+ISFCR / PES Uni. 
+July 2021 – January 2022  
+- Developed a tool to detect deepfake videos using a bidirectional RNN and  
+
+Optical flow algorithm  
+
+CODS / PES Uni. 
+September 2020 – May 2022 
+-Completed a project to detect Network Attacks using various classical ML 
+techniques.  
+-Conducted a workshop demonstrating the webscraping of COVID-19 data 
+using BeautifulSoup. 
+
+PES UNIVERSITY / B.TECH 
+AUG 2019 - Present,  Bangalore 
+CGPA- 8.41 
+7th Semester Student pursuing Computer Science Engineering. 
+
+AECS Magnolia Maaruti International School / 12th 
+JUNE 2017 - MAY 2019,  Bangalore 
+Secured 90% in CBSE Boards Examination. 
+
+PSBB Learning Leadership Academy / 10th 
+Bangalore 
+CGPA- 9.2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ㅡ 
+Projects 
+
+DeepFake Detection 
+
+Developed a tool to detect deepfake videos using an RNN and Lucas-Kanade 
+equation for optical flow. 
+
+GUILD [Generating Useful Insights Using Large Datasets]  
+
+Built a data categorization tool to assign categories to documents and then extract 
+information about these categories in an unsupervised manner. 
+Used ALBERT, auto-encoder for dimensionality reduction, optimized K-Means and 
+hierarchical LDA for topic extraction. 
+
+Deblurring Using GAN 
+
+Deblurred images in GoPro dataset using a GAN. 
+
+Email Spam Detection Using Spark Streaming & Incremental 
+Learning 
+
+Classified emails in Enron spam detection dataset using SparkML in python. 
+Data was live streamed in batches using Spark and ML models were trained in an 
+incremental way to train each batch as it was streamed.  
+
+Stock Market Analysis  
+
+Simulated real time stock market trading environment and provided 
+recommendations on stocks to purchase based on recent trends. 
+
+Network Attacks Detection 
+
+Detected Network Attacks using various classical ML algorithms. 
+
+Password Manager 
+
+Developed a Password manager tool using MERN stack. 
+
+Personal Information Manager 
+
+Using Secure-C practices developed a tool to store users personal information by 
+encrypting data using Caesar cipher. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+Khush Mody
+
+www.linkedin.com/in/khush-mody
+(LinkedIn)
+
+NTU Research Intern | Samsung Prism Researcher | APSIS
+Solutions | Ex NUS | Ex HPE | Data Science Practitioner
+Mumbai
+
+Top Skills
+
+Data Analytics
+
+Data Science
+
+Machine Learning
+
+Certifications
+
+Deep Learning Specialization
+
+Python Data Structure
+
+Algorithmic Toolbox
+
+Introduction to Programming Using
+Python
+
+Browser based models with
+tensorflow.js
+
+Publications
+
+An Artificial Neural Network
+Approach for Classifying Cricket
+Batsman's Performance by Adam
+Optimizer and Prediction by Derived
+Attributes
+
+Summary
+
+Hello! I am Khush studying at SRMIST, Kattankulathur and am
+
+currently in my final year.
+
+I am a data science enthusiast, always looking for and working
+
+towards creating new projects in the field of data science. Keen
+
+towards learning new stuff as well as implementing them.
+
+I've done projects and research in :-
+
+1. Deep Learning
+
+2. Machine Learning
+
+3. Computer Vision
+
+4. Sequencce Models
+
+5. Deployment of models on browsers
+
+I've completed a research internship at NUS for Data Analytics using
+
+Deep Learning which was where I built my first project.
+
+email - khush.mody2000@gmail.com
+
+Hackerrank Id - RA1811003010738
+
+Experience
+
+Nanyang Technological University
+Research Intern
+January 2022 - June 2022 (6 months)
+
+Samsung Electronics
+Prism Researcher
+April 2021 - December 2021 (9 months)
+
+• Developed 2 custom models, CNN and RNN for utterance-level identification
+
+of monolingual vs. code-switched utterances, i.e., English vs Tamil vs English-
+
+Tamil CS.
+
+Page 1 of 2
+
+ 
+ 
+ 
+• Worked on code-switch point identification using Kaldi as ASR toolkit and
+
+HMM-DMM model for point identification.
+
+APSIS Solutions
+Machine Learning Intern
+July 2020 - December 2020 (6 months)
+
+•Built a model for face recognition at a distance using OpenCV and a custom
+
+CNN model for deployment.
+
+•Trained new employees on Raspberry Pi and devised detection and
+
+recognition of Vehicle Plates as part of a project.
+
+•Constructed a model using tiny yoloV3 for number plate detection and google
+
+cloud platform for optical character recognition of the number plate.
+
+Hewlett Packard Enterprise
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning
+
+National University of Singapore
+Research Intern, Data Analytics
+December 2019 - January 2020 (2 months)
+Singapore
+
+Data Analytics using Deep Learning.
+
+Education
+
+SRM University
+
+Bachelor of Technology - BTech, Computer Science · (2018 - 2022)
+
+Narsee Monjee Educational Trust's - Jamnabai Narsee School
+
+10th standard  · (2004 - 2016)
+
+Page 2 of 2
+
+ 
+ 
+ 
+Contact
+
+www.linkedin.com/in/fourty-two
+(LinkedIn)
+
+Shantanu Pandey
+
+Data Science and IoT Practitioner | Helps make AI professionals
+awesome
+Bengaluru
+
+Top Skills
+
+C
+
+C++
+
+Machine Learning
+
+Languages
+
+Hindi
+
+English
+
+Certifications
+
+Professional Cloud Security
+Engineer
+
+Machine Learning
+
+Computer Forensics
+
+Honors-Awards
+
+Best Paper Award
+
+Microsoft TechEd India 2012
+RockStar
+
+Publications
+
+Relativity in Computing Logic
+
+Summary
+
+Microsoft Certified Trainer, Google Authorized Trainer, HPE
+
+Instructor. Data structures enthusiast and  C/C++ student. I have
+
+architected multiple AI solutions and lead data science teams in
+
+FinTech (risk, loans and real estate finance), and Infotainment
+
+(news and consumer behaviour analysis), Have trained 10,000+
+
+professionals and 50+ medium to large enterprises, on machine
+
+learning, deep learning/neural networks, computer vision, NLP,
+
+TensorFlow, IoT, data engineering, DataBricks/Spark, and security.
+
+Get in touch for official certification courses and customized learning
+
+deliveries!
+
+Experience
+
+APT Consulting Ltd.
+Director Of Engineering
+October 2020 - Present (1 year 9 months)
+Vancouver, British Columbia, Canada
+
+Meteoros Automation LLP
+Head Of Engineering
+February 2019 - Present (3 years 5 months)
+Bengaluru Area, India
+
+Architectures, AI Models, Data and Application Security, Technology Advisory,
+
+Corporate Training
+
+fincity
+Vice President Of Engineering
+November 2016 - March 2018 (1 year 5 months)
+Bangalore
+
+Cloud, Mobile, Web, Cybersecurity, Data Governance, Risk/Threat
+
+Management, Vendor & Asset Management, inter-disciplinary teams, and
+
+defined organization & Internal Processes 
+
+Page 1 of 3
+
+ 
+ 
+ 
+We are a group of seasoned investment bankers, lenders, engineers and
+
+operators. We arrange Housing Finance across Home Loans, Real Estate
+
+Developer Finance and Loan Against Property. This year we have already
+
+disbursed ₹800 Cr- and building an artificially intelligent loan disbursal system
+
+and bank to reduce the current sanction time from 100+ days to 10 days. We
+
+are looking for highly motivated hackers and geeks to join our team and build a
+
+suite of high impact & secure products. 
+
+Dunst Consulting LLC
+Director Of Engineering
+January 2014 - October 2016 (2 years 10 months)
+
+Building the architecture, development & deployment strategy, and managing
+
+the products to their success. 
+
+Rhaegan Technologies LLP
+Director Of Engineering
+April 2012 - January 2014 (1 year 10 months)
+Bangalore
+
+I lead the team into building & designing products. Rhaegan was a services
+
+based firm who built apps, backend, and security for a range of domains and
+
+startups. We were also a Microsoft BizSpark company, building our ISMS. 
+
+Microsoft
+1 year 3 months
+
+Microsoft Imagine Cup
+July 2011 - September 2012 (1 year 3 months)
+New York / Sydney
+
+I was able to combine my passion for technology and marketing for Microsoft
+
+Imagine Cup 2011 in New York, and 2012 in Sydney. We worked on online
+
+strategies, digital media, social-media, analytics and insights to cover 250+
+
+entrepreneur teams, and give them visibility in all the online nations. 
+
+Microsoft TechEd India 2012
+January 2012 - April 2012 (4 months)
+Bangalore
+
+I was core team member of Microsoft TechEd India 2012. Part of Planning,
+
+Assessment and Execution. I was responsible for online presence, planning
+
+& developing Rock Star Program (Tech Community), building and curating
+
+content for streaming, and managed vendors for quality testing, social media
+
+and logistics. 
+
+Page 2 of 3
+
+ 
+ 
+ 
+Education
+
+KVG College of Engineering
+
+BE, Computer Science Engineering · (2007 - 2011)
+
+St Paul's Lucknow
+
+Senior School Certificate, Computer Science · (2003 - 2007)
+
+Page 3 of 3
+
+ 
+ 
+ 
 

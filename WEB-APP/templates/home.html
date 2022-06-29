@@ -5,12 +5,11 @@
     <div class="home">
       <h1><b>Welcome to the Resume Parser and Classifier System!</b></h1>
       <p>Please input your resume in the file uploader below so we can help find a suitable job for you!</p>
-      <p>You can also upload your Github User ID if available.</p>
+     
     </div>
     <div class="form1">
       <form action = "http://localhost:5000/uploader" method = "POST" enctype = "multipart/form-data">
         <input type = "file" name = "file" style="font-size: 25px;padding-left: 170px;"/><br><br><br><br>
-        <input type="text" name="Github" placeholder="(Optional) Github User ID" style="font-size: 25px;"/><br><br><br><br>
         <input type = "submit" style="font-size: 25px;"/>
       </form>
     </div>
