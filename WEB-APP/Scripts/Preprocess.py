@@ -63,19 +63,19 @@ class Preprocess:
 
         for i, ent in enumerate(x_spc.ents):
             idx= text.find(ent.text)
-        if i == 0:
-            x_return= text[0: idx]
-        else:
-            x_return= x_return + text[idx_last_ent+ len_last_ent: idx]
+            if i == 0:
+                x_return= text[0: idx]
+            else:
+                x_return= x_return + text[idx_last_ent+ len_last_ent: idx]
 
-        if ent.label_ not in remove_ents:
-            x_return= x_return+ ent.text
+            if ent.label_ not in remove_ents:
+                x_return= x_return+ ent.text
 
-        if i== len(x_spc.ents)-1:
-            x_return= x_return+ text[idx+len(ent.text): ]
+            if i== len(x_spc.ents)-1:
+                x_return= x_return+ text[idx+len(ent.text): ]
 
-        len_last_ent= len(ent.text)
-        idx_last_ent= idx
+            len_last_ent= len(ent.text)
+            idx_last_ent= idx
 
         x_return= x_return.lower()
 
