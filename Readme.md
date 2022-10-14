@@ -47,8 +47,7 @@ pip install -r requirements.txt
 export FLASK_APP=app
 flask run
 ```
-## :technologist: Project Created & Maintained By -
-![Tech Image](https://github.com/joshianirudh/ResumeParser-Classifier/blob/main/Images/team.png)
+
 
 
 ## License
