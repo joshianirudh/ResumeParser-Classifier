@@ -8,3 +8,4 @@ pdfminer.six==20220524
 spacy==3.3.1
 tensorflow==2.9.1
 Werkzeug==2.0.2
+jinja2<3.1.0
